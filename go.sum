@@ -1,0 +1,17 @@
+github.com/DylanMeeus/GoAudio v0.13.1 h1:vxsqF+5Sn12aY6+AcPoG8H/P8+TfSH/XPaHAC/gY0Ng=
+github.com/DylanMeeus/GoAudio v0.13.1/go.mod h1:V+oGHNuF+LDkPKK/LDzQs5HUs80TEn2LG9d8bYdbF/c=
+github.com/go-ole/go-ole v1.2.6/go.mod h1:pprOEPIfldk/42T2oK7lQ4v4JSDwmV0As9GaiUsvbm0=
+github.com/go-ole/go-ole v1.3.0 h1:Dt6ye7+vXGIKZ7Xtk4s6/xVdGDQynvom7xCFEdWr6uE=
+github.com/go-ole/go-ole v1.3.0/go.mod h1:5LS6F96DhAwUc7C+1HLexzMXY1xGRSryjyPPKW6zv78=
+github.com/moutend/go-wca v0.3.0 h1:IzhsQ44zBzMdT42xlBjiLSVya9cPYOoKx9E+yXVhFo8=
+github.com/moutend/go-wca v0.3.0/go.mod h1:7VrPO512jnjFGJ6rr+zOoCfiYjOHRPNfbttJuxAurcw=
+github.com/soockee/go-record v0.0.0-20250110184336-e7ace232fec3 h1:YQO7KRjMgrpktdtaLeE2VQo332m3o1NGQwgGvw4OVBQ=
+github.com/soockee/go-record v0.0.0-20250110184336-e7ace232fec3/go.mod h1:4mSG1II0lgXSXPW02MudhBDl9zuweYNT8TObArFYcsQ=
+github.com/soockee/go-record v0.1.0 h1:Yz51tGEtP0mlVVuKJJXGdDbQ+COjYdEimdEP9ONGq/Y=
+github.com/soockee/go-record v0.1.0/go.mod h1:4mSG1II0lgXSXPW02MudhBDl9zuweYNT8TObArFYcsQ=
+golang.org/x/sys v0.0.0-20190916202348-b4ddaad3f8a3/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
+golang.org/x/sys v0.1.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
+golang.org/x/sys v0.29.0 h1:TPYlXGxvx1MGTn2GiZDhnjPA9wZzZeGKHHmKhHYvgaU=
+golang.org/x/sys v0.29.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
+gonum.org/v1/gonum v0.15.1 h1:FNy7N6OUZVUaWG9pTiD+jlhdQ3lMP+/LcTpJ6+a8sQ0=
+gonum.org/v1/gonum v0.15.1/go.mod h1:eZTZuRFrzu5pcyjN5wJhcIhnUdNijYxX1T2IcrOGY0o=
